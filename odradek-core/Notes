@@ -1,0 +1,7 @@
+->Activate venv
+cd odarek-core
+.\venv\Scripts\Activate.ps1
+
+-> Bro ıdk how this works rn but its crazy
+
+(Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\senog\OneDrive\Masaüstü\Odarek\odradek-core\venv\Scripts\Activate.ps1)

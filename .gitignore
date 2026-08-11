@@ -1,0 +1,42 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.installed.cfg
+
+# Virtual environments (Windows & Unix)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Build artifacts
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.so
+
+# Test / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDEs & editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
